@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Untis',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://kadmos.webuntis.com/today',
 		},
 		{
 			id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Iserv',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://lukasschule.org/iserv/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'www.youtube.com/',
 		},
 	],
 
